@@ -1,0 +1,7 @@
+C:\Users\bibif\source\repos\Lista4_Ex1\bin\Debug\Lista4_Ex1.exe.config
+C:\Users\bibif\source\repos\Lista4_Ex1\bin\Debug\Lista4_Ex1.exe
+C:\Users\bibif\source\repos\Lista4_Ex1\bin\Debug\Lista4_Ex1.pdb
+C:\Users\bibif\source\repos\Lista4_Ex1\obj\Debug\Lista4_Ex1.csproj.AssemblyReference.cache
+C:\Users\bibif\source\repos\Lista4_Ex1\obj\Debug\Lista4_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\bibif\source\repos\Lista4_Ex1\obj\Debug\Lista4_Ex1.exe
+C:\Users\bibif\source\repos\Lista4_Ex1\obj\Debug\Lista4_Ex1.pdb
